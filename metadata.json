@@ -1,0 +1,6 @@
+{
+  "name": "BioCell Lab - Phần Mềm Quan Sát & Giả Lập Tế Bào",
+  "description": "Phần mềm quan sát tế bào tương tác cao cấp: động vật, thực vật, nấm, nguyên sinh vật và vi khuẩn. Giả lập quang hợp, hô hấp tế bào, thẩm thấu màng sinh chất và phân chia tế bào.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
